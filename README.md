@@ -1,0 +1,2 @@
+# Face-detection-using-Convolution-Neural-Networks
+ Developed by implementing convolution neural network and artificial neural network for the detection of pet animals- either a dog or a cat. The technique that is being used is Deep Learning and the algorithms that are being implemented are convolution neural network and artificial neural network. The training data set consists of 8000 images and the test data set consists of 2000 images. The accuracy achieved is 93.7%
